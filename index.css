@@ -1,0 +1,77 @@
+body {
+	font-family: "Roboto";
+	background-color: #ECDFCC;
+}
+
+.nav-link {
+	font-family: "Montserrat";
+	font-size: 20px;
+	color:#3C3D37;
+}
+
+#aboutMe {
+	background-color: #697565;
+	color: #FFFFFF;
+}
+
+#landing2 {
+	background-color: #697565;
+}
+#landingContent {
+	color: #FFFFFF;
+}
+
+#aboutMe2 {
+	background-color: #3C3D37;
+	color: #FFFFFF;
+}
+
+#projects {
+	background-color: #697565;
+}
+
+#projectLabel {
+	font-family: "Montserrat";
+	color: #FFFFFF;
+}
+
+#tools {
+	background-color: #697565;
+}
+
+#toolsLabel {
+	font-family: "Montserrat";
+	color: #FFFFFF;
+}
+
+#toolsLabel-1, #toolsLabel-2, #toolsLabel-3 {
+	font-family: "Montserrat";
+	color: #3C3D37;
+}
+
+#tools1, #tools2, #tools3 {
+	background-color: #FFFFFF;
+}
+
+#contactLabel {
+	font-family: "Montserrat";
+	color: #FFFFFF;
+}
+
+#contact {
+	background-color: #697565;
+}
+
+#form {
+	background-color: #3C3D37;
+}
+
+
+#social1, #social2, #social3, #social4 {
+	height: 50px !important;
+	width: 50px !important;
+}
+
+#footer {
+	background-color: #3C3D37;
+}
