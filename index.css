@@ -9,6 +9,14 @@ body {
 	color:#3C3D37;
 }
 
+.bg-secondary {
+	background-color: #ECDFCC !important
+}
+
+#navbarToggleExternalContent {
+	background-color: ##ECDFCC;
+}
+
 #aboutMe {
 	background-color: #697565;
 	color: #FFFFFF;
